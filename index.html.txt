@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - VNG Intelligent Automotive Technology</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 25px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .last-updated {
+            font-style: italic;
+            color: #7f8c8d;
+        }
+        .contact-info {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Facebook Lead Ads</h1>
+    <p class="last-updated">Effective Date: July 15, 2025</p>
+    
+    <p><strong>VNG (Guangzhou) Intelligent Automotive Technology Co., Ltd.</strong> ("we", "us", or "our") respects your privacy and is committed to protecting the personal information you provide through our Facebook Lead Ads. This policy explains how we collect, use, store, and safeguard your data.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>Through Facebook Lead Ads, we may collect:</p>
+    <ul>
+        <li>Name</li>
+        <li>Email Address</li>
+        <li>Phone Number</li>
+        <li>National City</li>
+        <li>Company/Organization Name (if applicable)</li>
+        <li>Job Title (if applicable)</li>
+        <li>Other details you voluntarily submit in the form.</li>
+    </ul>
+
+    <h2>2. Purpose of Data Collection</h2>
+    <p>Your information will be used for:</p>
+    <ul>
+        <li>Responding to your inquiries (e.g., product information, service requests).</li>
+        <li>Sending promotional communications (only with your explicit consent).</li>
+        <li>Improving our products and services.</li>
+        <li>Complying with legal obligations (e.g., tax or regulatory requirements).</li>
+    </ul>
+
+    <h2>3. Data Sharing & Storage</h2>
+    <ul>
+        <li><strong>Third-Party Tools</strong>: We may use Facebook, CRM systems (e.g., HubSpot), and email marketing platforms to process your data, strictly for the purposes stated above.</li>
+        <li><strong>Legal Compliance</strong>: We may disclose data if required by law.</li>
+        <li><strong>International Transfers</strong>: Data may be stored on servers in China or other countries where our service providers operate.</li>
+    </ul>
+
+    <h2>4. Your Rights</h2>
+    <p>Under applicable laws (e.g., GDPR, CCPA), you have the right to:</p>
+    <ul>
+        <li>Access, correct, or delete your data.</li>
+        <li>Withdraw consent (contact us at <a href="mailto:vngairsuspension@gmail.com">vngairsuspension@gmail.com</a>).</li>
+        <li>Lodge a complaint with a regulatory authority (if applicable).</li>
+    </ul>
+
+    <h2>5. Data Retention Period</h2>
+    <p>We retain your data only as long as necessary to:</p>
+    <ul>
+        <li>Fulfill the purpose for which it was collected.</li>
+        <li>Comply with legal or tax obligations.</li>
+        <li>Honor your request for deletion.</li>
+    </ul>
+
+    <h2>6. Cookies & Tracking</h2>
+    <p>We may use cookies or tracking technologies (e.g., Facebook Pixel) to analyze ad performance, but the Lead Ads form itself does not use cookies.</p>
+
+    <div class="contact-info">
+        <h2>7. Contact Us</h2>
+        <p>For privacy-related questions or requests, contact:</p>
+        <p><strong>Email</strong>: <a href="mailto:vngairsuspension@gmail.com">vngairsuspension@gmail.com</a></p>
+        <p><strong>Address</strong>:<br>
+        VNG (Guangzhou) Intelligent Automotive Technology Co., Ltd.<br>
+        Huaju Construction Innovation Industrial Park,<br>
+        No. 3 Nanheng 2nd Road, Longhe West Road,<br>
+        Longgui Street, Baiyun District, Guangzhou, China</p>
+    </div>
+
+    <h2>8. Policy Updates</h2>
+    <p>We may update this policy periodically. Changes will be posted on our website or communicated via email.</p>
+</body>
+</html>
